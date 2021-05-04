@@ -11,12 +11,10 @@ Specify the _in_dir_ and _out_dir_ in the main.py file. consider the provided sa
 and then </br>
 > python main.py
 
+<img src="./G1020/image_0.jpg" width="350" title="input">
+<img src="./G1020-segments/image_0.jpg" width="350" title="input">
 
 
-
-
-
-
-Resource:
+## Resource: 
 This code is based on labelme package:
 https://github.com/wkentaro/labelme
