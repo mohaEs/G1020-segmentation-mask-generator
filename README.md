@@ -6,9 +6,17 @@ This repository contains a file to read json files of G1020 dataset and generate
 G1020: fundus Glaucoma dataset 
 https://arxiv.org/abs/2006.09158
 
-install the requirements (tested with python 3.6). </br>
-specify the in_dir and out_dir in the main.py file. </br>
+Install the requirements (tested with python 3.6). </br>
+Specify the _in_dir_ and _out_dir_ in the main.py file. consider the provided sample folders.</br>
 and then </br>
-$ python main.py
+> python main.py
 
 
+
+
+
+
+
+Resource:
+This code is based on labelme package:
+https://github.com/wkentaro/labelme
