@@ -60,6 +60,10 @@ for root, dirs, files in os.walk(in_dir):
             
             
             lbl=lbl.astype(np.uint8)
+
+            if np.max(lbl)==1:
+                lbl=lbl*2
+
             lbl=np.where(lbl==1,128,lbl)
             lbl=np.where(lbl==2,255,lbl)
             mask = im.fromarray(lbl)
