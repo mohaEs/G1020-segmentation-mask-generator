@@ -67,6 +67,6 @@ for root, dirs, files in os.walk(in_dir):
             lbl=np.where(lbl==1,128,lbl)
             lbl=np.where(lbl==2,255,lbl)
             mask = im.fromarray(lbl)
-            mask.save(osp.join(out_dir, img_filename))
+            mask.save(osp.join(out_dir, img_filename[:-3]+'png'))
 
 
