@@ -12,7 +12,7 @@ and then </br>
 > python main.py
 
 <img src="./G1020/image_0.jpg" width="350" title="input">
-<img src="./G1020-segments/image_0.jpg" width="350" title="input">
+<img src="./G1020-segments/image_0.ong" width="350" title="input">
 
 
 ## Resource: 
