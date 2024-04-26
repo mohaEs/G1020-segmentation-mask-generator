@@ -22,7 +22,7 @@ https://github.com/wkentaro/labelme
 
 ## Citation 
 
-If you used this dataset, please cite one of the following reports: </br>
+If you found this repository helpful for your project, please cite one of the following reports: </br>
 - https://iovs.arvojournals.org/article.aspx?articleid=2791240 
 Eslami, M., Motati, L.S., Kalahasty, R., Hashemabad, S.K., Shi, M., Luo, Y., Tian, Y., Zebardast, N., Wang, M. and Elze, T., 2023. Deep Learning based Adversarial Disturbances in Fundus Image Analysis. Investigative Ophthalmology & Visual Science, 64(9), pp.PB002-PB002. </br>
 - https://iovs.arvojournals.org/article.aspx?articleid=2791086 
