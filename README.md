@@ -28,7 +28,7 @@ Eslami, M., Motati, L.S., Kalahasty, R., Hashemabad, S.K., Shi, M., Luo, Y., Tia
 - https://iovs.arvojournals.org/article.aspx?articleid=2791086 
 Motati, L.S., Kalahasty, R., Hashemabad, S.K., Shi, M., Luo, Y., Tian, Y., Zebardast, N., Wang, M., Elze, T. and Eslami, M., 2023. Evaluation of Robustness of Disc/Cup Segmentation in Different Fundus Imaging Conditions. Investigative Ophthalmology & Visual Science, 64(8), pp.1129-1129.</br> 
 
-And of course, you need to cite the original RIGA dataset as well: </br>
+And of course, you need to cite the original G1020 dataset as well: </br>
 https://arxiv.org/abs/2006.09158
 
 
